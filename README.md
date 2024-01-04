@@ -10,10 +10,15 @@ Before you start the application, make sure you have [Node.js](https://nodejs.or
 
 Open your terminal and navigate to the project directory. Run the following command to install the required dependencies:
 
-## Demo Link
-https://6596e4591448ae0f818490c7--deluxe-dolphin-61af21.netlify.app/
+## npm install
 
 ## Getting Started
 Once the dependencies are installed, you can start the application using the following command:
 
-## npm install
+## npm start
+
+
+## Demo Link
+https://6596e4591448ae0f818490c7--deluxe-dolphin-61af21.netlify.app/
+
+
