@@ -15,4 +15,5 @@ https://6596e4591448ae0f818490c7--deluxe-dolphin-61af21.netlify.app/
 
 ## Getting Started
 Once the dependencies are installed, you can start the application using the following command:
-npm install
+
+[npm install](npm install)
