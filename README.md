@@ -10,13 +10,9 @@ Before you start the application, make sure you have [Node.js](https://nodejs.or
 
 Open your terminal and navigate to the project directory. Run the following command to install the required dependencies:
 
-```bash
-npm install
+## Demo Link
+https://6596e4591448ae0f818490c7--deluxe-dolphin-61af21.netlify.app/
 
 ## Getting Started
 Once the dependencies are installed, you can start the application using the following command:
-
-bash
-Copy code
-npm start
-This will launch the development server, and you can view the app in your web browser at http://localhost:3000.
+npm install
